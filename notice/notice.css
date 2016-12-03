@@ -1,0 +1,18 @@
+/*-- Panel Heading and Panel --*/
+
+#div1{
+	background-color: #C6FA88;
+	padding-top: 70px;
+	padding-bottom: 30px;
+	background-image: url("img/back.jpg");
+}
+#div2{
+	background-color: #DBCDF5;
+	padding-top: 20px;
+}
+#panel{
+	background-color: #A1D4FB;
+	color: #233532;
+	
+}
+
